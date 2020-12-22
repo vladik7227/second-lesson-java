@@ -22,7 +22,7 @@ public class Math {
 
         for (char element : array) {
             summ = summ + element;
-            System.out.println("The summ of numbers = " + summ);
+            System.out.println("The sum of numbers = " + summ);
 
         }
 
